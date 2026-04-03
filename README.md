@@ -19,7 +19,7 @@
   <img
     src="https://github-stats-extended.vercel.app/api?username=varkelth&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=762eb6&bg_color=0D0D0D&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=762eb6"
     alt="GitHub Stats"
-    width="49%"
+    width="50%"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&hide_border=false&border=762eb6&background=0D0D0D&stroke=762eb6&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF&sideLabels=C77DFF&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA"
@@ -30,7 +30,7 @@
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=varkelth&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&hide_border=false&border_color=762eb6&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
     alt="Most Used Languages"
-    width="50%"
+    width="49%"
   />
 </p>
 
