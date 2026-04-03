@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**varkelth/varkelth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ varkelth ⚡
 
-Here are some ideas to get you started:
+### *"The Force of Code is strong with this one."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=varkelth&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+## 🛸 Technologies & Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varkelth&theme=midnight_purple&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,reviews,issues,discussions_started&custom_title=%E2%9A%A1%20varkelth%27s%20Stats&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=7B2FBE" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight-purple&border=7B2FBE&background=0D0D0D&stroke=7B2FBE&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF&sideLabels=FFFFFF&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+## 🗂️ Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varkelth&theme=midnight_purple&layout=compact&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF&custom_title=%E2%9A%A1%20Most%20Used%20Languages" alt="Most Used Languages" width="50%"/>
+</p>
+
+---
+
+<sub>🌌 *May the Code be with you* 🌌</sub>
+
+</div>
