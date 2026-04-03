@@ -18,7 +18,7 @@
     width="48%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&border=7B2FBE&background=0D0D0D&stroke=7B2FBE&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF&sideLabels=e3beca&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&border=7B2FBE&background=0D0D0D&stroke=7B2FBE&ring=C77DFF&fire=FF6B6B&currStreakLabel=e3beca&sideLabels=e3beca&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
     width="48%"
   />
