@@ -24,7 +24,7 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&hide_border=false&border=762eb6&background=0D0D0D&stroke=762eb6&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF&sideLabels=C77DFF&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
-    width="45%"
+    width="43%"
   />
   <br/>
   <br/>
