@@ -13,12 +13,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=varkelth&theme=midnight_purple&show_icons=true&count_private=true&include_all_commits=true&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=7B2FBE"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=varkelth&theme=midnight_purple&show_icons=true&count_private=true&include_all_commits=true&border_color=7B2FBE&bg_color=e3beca&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=7B2FBE"
     alt="GitHub Stats"
     width="48%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&border=7B2FBE&background=0D0D0D&stroke=7B2FBE&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF&sideLabels=FFFFFF&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&border=7B2FBE&background=0D0D0D&stroke=7B2FBE&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF&sideLabels=e3beca&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
     width="48%"
   />
@@ -26,7 +26,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varkelth&theme=midnight_purple&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varkelth&theme=midnight_purple&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&border_color=e3beca&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
     alt="Most Used Languages"
     width="50%"
   />
