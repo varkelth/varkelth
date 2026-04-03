@@ -30,14 +30,15 @@
     width="48%"
   />
 
+
+</p>
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varkelth&theme=midnight_purple&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varkelth&theme=midnight_purple&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
     alt="Most Used Languages"
     width="50%"
   />
-
 </p>
-
 ## 🗂️ Most Used Languages
 
 <p align="center">
