@@ -26,7 +26,7 @@
     alt="GitHub Streak"
     width="50%"
   />
-  
+  <br/>
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=varkelth&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&hide_border=false&border_color=762eb6&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
     alt="Most Used Languages"
