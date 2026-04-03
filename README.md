@@ -17,7 +17,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=varkelth&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=762eb6&bg_color=0D0D0D&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=762eb6"
+    src="https://github-readme-stats.vercel.app/api?username=varkelth&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=762eb6&bg_color=0D0D0D&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=762eb6"
     alt="GitHub Stats"
     width="48%"
   />
@@ -27,10 +27,8 @@
     width="48%"
   />
 
-
-
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varkelth&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&hide_border=false&border_color=762eb6&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varkelth&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&hide_border=false&border_color=762eb6&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
     alt="Most Used Languages"
     width="50%"
   />
