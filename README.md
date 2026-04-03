@@ -1,5 +1,8 @@
 <div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=varkelth&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-7B2FBE?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
@@ -10,23 +13,26 @@
   <img src="https://img.shields.io/badge/SQL-7B2FBE?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 </p>
 
+<br/>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=varkelth&theme=midnight_purple&show_icons=true&count_private=true&include_all_commits=true&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=7B2FBE"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=varkelth&theme=midnight_purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=7B2FBE"
     alt="GitHub Stats"
     width="48%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&border=7B2FBE&background=0D0D0D&stroke=7B2FBE&ring=C77DFF&fire=FF6B6B&currStreakLabel=e3beca&sideLabels=e3beca&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&hide_border=false&border=7B2FBE&background=0D0D0D&stroke=7B2FBE&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF&sideLabels=C77DFF&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
     width="48%"
   />
 </p>
 
+<br/>
+
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varkelth&theme=midnight_purple&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varkelth&theme=midnight_purple&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&hide_border=false&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
     alt="Most Used Languages"
     width="50%"
   />
