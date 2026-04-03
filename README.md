@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=varkelth&color=762eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=varkelth&color=762eb6&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views"/>
 
 <br/>
 
@@ -26,7 +26,6 @@
     alt="GitHub Streak"
     width="50%"
   />
-
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=varkelth&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&hide_border=false&border_color=762eb6&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
     alt="Most Used Languages"
