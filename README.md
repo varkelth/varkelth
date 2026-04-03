@@ -1,13 +1,5 @@
 <div align="center">
-
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=varkelth&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
----
-
-## 🛸 Technologies & Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-7B2FBE?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
@@ -18,9 +10,6 @@
   <img src="https://img.shields.io/badge/SQL-7B2FBE?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 </p>
 
----
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -34,10 +23,6 @@
     width="48%"
   />
 </p>
-
----
-
-## 🗂️ Most Used Languages
 
 <p align="center">
   <img
