@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=varkelth&color=762eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+<br />
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-762eb6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-762eb6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
