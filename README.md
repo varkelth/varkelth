@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=uhqstraizo&color=762eb6&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=uhqstraizo&color=762eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/>
 
