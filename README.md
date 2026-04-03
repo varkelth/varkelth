@@ -1,9 +1,5 @@
 <div align="center">
 
-# ⚡ varkelth ⚡
-
-### *"The Force of Code is strong with this one."*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=varkelth&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
@@ -33,6 +29,13 @@
     alt="GitHub Streak"
     width="48%"
   />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varkelth&theme=midnight_purple&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=varkelth&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF"
+    alt="Most Used Languages"
+    width="50%"
+  />
+
 </p>
 
 ## 🗂️ Most Used Languages
