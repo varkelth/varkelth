@@ -22,10 +22,17 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varkelth&theme=midnight_purple&show_icons=true&count_private=true&include_all_commits=true&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=7B2FBE" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&border=7B2FBE&background=0D0D0D&stroke=7B2FBE&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF&sideLabels=FFFFFF&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA" alt="GitHub Streak" width="48%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=varkelth&theme=midnight_purple&show_icons=true&count_private=true&include_all_commits=true&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF&ring_color=7B2FBE"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=varkelth&theme=midnight_purple&border=7B2FBE&background=0D0D0D&stroke=7B2FBE&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF&sideLabels=FFFFFF&sideNums=C77DFF&currStreakNum=FFFFFF&dates=AAAAAA"
+    alt="GitHub Streak"
+    width="48%"
+  />
 </p>
 
 ## 🗂️ Most Used Languages
@@ -33,9 +40,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varkelth&theme=midnight_purple&layout=compact&langs_count=6&cache_seconds=86400&border_color=7B2FBE&bg_color=0D0D0D&title_color=C77DFF&text_color=FFFFFF" alt="Most Used Languages" width="50%"/>
 </p>
-
----
-
-<sub>🌌 *May the Code be with you* 🌌</sub>
 
 </div>
