@@ -1,0 +1,28 @@
+name: Generate Stats Custom
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # S'exécute tous les jours à minuit
+  workflow_dispatch: # Te permet de cliquer sur un bouton pour le lancer manuellement
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Lancer le script
+        run: node generate.js
+        
+      - name: Sauvegarder la nouvelle image sur le profil
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add stats.svg
+          git commit -m "Mise à jour automatique des stats" || exit 0
+          git push
